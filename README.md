@@ -32,3 +32,13 @@ The goal of this notebook is to **implementing logistic regression classifier fr
 * Implement gradient ascent.
 * Given a set of coefficients, predict sentiments.
 * Compute classification accuracy for the logistic regression model.
+
+---
+```logistic regression with L2 regularization```
+
+The goal of this second notebook is to implement self-coded logistic regression classifier with L2 regularization:
+* Extract features from Amazon product reviews.
+* Convert an SFrame into a NumPy array.
+* Write a function to compute the derivative of log likelihood function with an L2 penalty with respect to a single coefficient.
+* Implement gradient ascent with an L2 penalty.
+* Empirically explore how the L2 penalty can ameliorate overfitting.
