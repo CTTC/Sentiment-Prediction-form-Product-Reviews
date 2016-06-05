@@ -1,6 +1,7 @@
 # Sentiment-Prediction-form-Product-Reviews
 
 The project is based on Classification Course by UW on Coursera.
+
 ---
 ``` logistic regression with built-in module.ipynb ```
 
