@@ -44,3 +44,12 @@ The goal of this second notebook is to implement self-coded logistic regression 
 * Write a function to compute the derivative of log likelihood function with an L2 penalty with respect to a single coefficient.
 * Implement gradient ascent with an L2 penalty.
 * Empirically explore how the L2 penalty can ameliorate overfitting.
+
+---
+```precision and recall```
+The goal of this second notebook is to understand precision-recall in the context of classifiers:
+ * Use Amazon review data in its entirety.
+ * Train a logistic regression model.
+ * Explore various evaluation metrics: accuracy, confusion matrix, precision, recall.
+ * Explore how various metrics can be combined to produce a cost of making an error.
+ * Explore precision and recall curves.
