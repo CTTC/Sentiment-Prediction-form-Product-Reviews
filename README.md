@@ -1,4 +1,4 @@
-# Sentiment-Prediction-form-Product-Reviews
+# Sentiment-Prediction-from-Product-Reviews
 
 The project is based on Classification Course by UW on Coursera.
 
