@@ -47,6 +47,7 @@ The goal of this second notebook is to implement self-coded logistic regression 
 
 ---
 ```precision and recall```
+
 The goal of this second notebook is to understand precision-recall in the context of classifiers:
  * Use Amazon review data in its entirety.
  * Train a logistic regression model.
