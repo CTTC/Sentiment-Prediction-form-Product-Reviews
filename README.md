@@ -1,6 +1,6 @@
 # Sentiment-Prediction-from-Product-Reviews
 
-The project is based on Classification Course by UW on Coursera.
+The project is based on [Classification Course](https://www.coursera.org/learn/ml-classification/home/welcome) by UW on Coursera.
 
 ---
 ``` logistic regression with built-in module.ipynb ```
